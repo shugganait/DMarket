@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DMarket</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="all">ALL</string>
+    <string name="ty_dolla">$</string>
+    <string name="categories">Categories</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="suggest_for_categories">Choose your preferred</string>
+    <string name="category">Category</string>
+    <string name="rating">Rating</string>
+    <string name="price">Price</string>
+    <string name="test_desc">The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="go_to_cart">GO TO CART</string>
+    <string name="add_something">ADD SOMETHING</string>
+    <string name="empty">Empty</string>
+    <string name="buy">BUY</string>
+</resources>
